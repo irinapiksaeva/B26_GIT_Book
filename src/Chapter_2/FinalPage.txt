@@ -1,0 +1,7 @@
+So far we learned GIT flow for:
+commit --> push
+
+and
+
+remote --> local
+pill/update
